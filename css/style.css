@@ -12,3 +12,9 @@ body {
 .jumbotron img {
 	width: 200px;
 }
+
+/* Projects */
+
+#projects {
+	background-color: #e2edff;
+}
