@@ -1,6 +1,3 @@
-body {
-	min-height: 3000px;
-}
 
 /* Jumbotron */
 
@@ -18,4 +15,6 @@ body {
 #projects {
 	background-color: #e2edff;
 }
+
+/* Footer */
 
