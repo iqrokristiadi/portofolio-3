@@ -16,5 +16,8 @@
 	background-color: #e2edff;
 }
 
-/* Footer */
+/* Section */
 
+section {
+	padding-top: 5rem;
+}
